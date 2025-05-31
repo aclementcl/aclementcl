@@ -1,6 +1,6 @@
 # Hi there, I'm Alejandro! 👋
 
-### 💻 Full Stack Developer | DevOps Learner | Cloud Enthusiast
+### 💻 Full Stack Developer
 
 I’m passionate about building efficient, scalable, and elegant software. I enjoy working on both backend and frontend 🚀.
 
@@ -32,7 +32,6 @@ I’m passionate about building efficient, scalable, and elegant software. I enj
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aclementcl)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/aclementcl)
 
 ---
 
