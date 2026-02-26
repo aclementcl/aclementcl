@@ -22,9 +22,8 @@ I’m passionate about building efficient, scalable, and elegant software. I enj
 ### 🚀 What I Do
 
 - 🔧 Build and maintain RESTful APIs with .NET and Node/NestJS
-- ⚙️ Create and optimize CI/CD pipelines (GitHub Actions)
 - 🐳 Containerize apps using Docker
-- 🧪 Automate testing and deployments
+- 🧪 Automate testing
 - 👥 Collaborate with cross-functional teams
 
 ---
