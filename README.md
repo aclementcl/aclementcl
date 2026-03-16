@@ -31,6 +31,7 @@ I’m passionate about building efficient, scalable, and elegant software. I enj
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aclementcl)
+[![Website](https://img.shields.io/badge/Website-aclemente.dev-black?style=flat&logo=google-chrome&logoColor=white)](https://aclemente.dev)
 
 ---
 
